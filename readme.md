@@ -157,3 +157,4 @@ Hello from St.Petersburg one more time
 Hello Git!
   Hello Hexlet
 Hello Hex!
+i am not sure whether it is safe to download this repo
